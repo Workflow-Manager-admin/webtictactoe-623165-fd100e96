@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/webtictactoe-623165-fd100e96/frontend_react"
+}
